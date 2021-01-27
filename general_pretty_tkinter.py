@@ -14,13 +14,6 @@ with code organization, re-usability, and encapsulation.
 
 from tkinter import *
 
-from datetime import datetime, timedelta
-import json
-import pandas as pd
-import requests
-import time
-import urllib
-
 __author__ = "Dana Koczur"
 __version__ = "1.0"
 __date__ = "01/30/2019"
